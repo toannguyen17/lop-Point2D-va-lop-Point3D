@@ -1,6 +1,6 @@
 package test;
 
-import app.matrix.Point3D;
+import app.Point3D;
 
 public class TestPoint3D {
 	public static void main(String[] args) {
